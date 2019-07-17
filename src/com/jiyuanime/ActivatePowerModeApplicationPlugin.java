@@ -7,7 +7,7 @@ import com.intellij.openapi.project.ProjectManagerAdapter;
 import com.jiyuanime.config.Config;
 import org.jetbrains.annotations.NotNull;
 
-/**
+/**、
  * com.jiyuanime.ActivatePowerModeApplicationPlugin
  * Created by suika on 15-12-13.
  */
