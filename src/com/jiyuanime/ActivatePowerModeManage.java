@@ -37,7 +37,7 @@ import javax.swing.JViewport;
 import javax.swing.SwingConstants;
 
 /**
- *
+ * 你好
  * 效果管理器
  * Created by KADO on 2017/1/11.
  */
